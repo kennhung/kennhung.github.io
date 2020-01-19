@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kenn&#39;s blog</title>
+  <icon>https://www.kenn.one/avatar.png</icon>
+  <subtitle>Welcome to Kenn&#39;s blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.kenn.one/"/>
+  <updated>2020-01-19T05:36:23.987Z</updated>
+  <id>https://www.kenn.one/</id>
+  
+  <author>
+    <name>KennHuang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.kenn.one/2020/01/19/hello-world/"/>
+    <id>https://www.kenn.one/2020/01/19/hello-world/</id>
+    <published>2020-01-19T05:36:23.987Z</published>
+    <updated>2020-01-19T05:36:23.987Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
