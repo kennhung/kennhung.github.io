@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.kenn.one/"/>
-  <updated>2020-01-19T08:04:40.463Z</updated>
+  <updated>2020-01-28T17:47:48.654Z</updated>
   <id>https://www.kenn.one/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://www.kenn.one/2020/01/19/hello-world/"/>
-    <id>https://www.kenn.one/2020/01/19/hello-world/</id>
-    <published>2020-01-19T05:36:23.987Z</published>
-    <updated>2020-01-19T08:04:40.463Z</updated>
+    <title>Kenn&#39;s Blog 上線啦</title>
+    <link href="https://www.kenn.one/2020/01/25/kenns-blog-is-online/"/>
+    <id>https://www.kenn.one/2020/01/25/kenns-blog-is-online/</id>
+    <published>2020-01-24T18:17:41.000Z</published>
+    <updated>2020-01-28T17:47:48.654Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,17 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;這邊是我個人的Blog，終於上線了&lt;br&gt;原本只是想要弄一個介紹頁而以&lt;br&gt;後來就意外的看到Hexo這個框架&lt;br&gt;然後就把個人的blog架起來啦&lt;br&gt;之後可能會不定期的分享一些關於程式或是生活上的事物&lt;/p&gt;
         
       
     
     </summary>
     
     
+      <category term="site" scheme="https://www.kenn.one/categories/site/"/>
+    
+    
+      <category term="site" scheme="https://www.kenn.one/tags/site/"/>
     
   </entry>
   
